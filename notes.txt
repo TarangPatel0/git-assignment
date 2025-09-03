@@ -1,0 +1,10 @@
+This is notes from main.
+This is second note from main.
+This is new note from main.
+
+Error in main is fixed.
+Another bug is also fixed.
+
+Check for diff from main.
+
+Check diff from feature side .
