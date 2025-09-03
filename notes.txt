@@ -1,4 +1,3 @@
 This is notes from main.
 This is second note from main.
 This is new note from main.
-This is wrong line.
