@@ -4,3 +4,5 @@ This is new note from main.
 
 Error in main is fixed.
 Another bug is also fixed.
+
+Check for diff from main.
